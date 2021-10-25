@@ -1,7 +1,7 @@
 # Cryptocurrencies
 ## Module 18 Challenge Overview
 ### Deliverables
-The deliverables were as follows:
+The deliverables for the challenge are as follows:
 - Deliverable 1: Preprocessing the Data for PCA
   - The following five preprocessing steps were performed on the crypto_df DataFrame:
     - All cryptocurrencies that were not being traded were removed 
