@@ -27,3 +27,7 @@ The deliverables were as follows:
    - The MinMaxScaler().fit_transform method was used to scale the TotalCoinSupply and TotalCoinsMined columns between the given range of zero and one.
     - A new DataFrame was created from the scaled data. CoinName and Class clomns were then added to the DataFrame as instructed.
     - An hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class". The CoinName is displayed when the cursor is hovered over the the data point.
+
+###### Module 18 Challenge Visualizations
+![viz](https://github.com/LleeMcD/Cryptocurrencies/blob/main/Resources/viz.png)
+
